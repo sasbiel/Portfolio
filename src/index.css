@@ -25,6 +25,21 @@
     src: url("../public/font/Poppins-Light.ttf");
 }
 
+/* For Chrome, Safari, Edge */
+.hide-scroll::-webkit-scrollbar {
+  display: none;
+}
+
+/* For Firefox */
+.hide-scroll {
+  scrollbar-width: none;
+}
+
+/* For IE/Old Edge */
+.hide-scroll {
+  -ms-overflow-style: none;
+}
+
 @theme default {
     --font-poppins-light: "poppins-light";
     --font-poppins-regular: "poppins-regular";
