@@ -9,7 +9,7 @@ import figma from '../../public/images/figma.png'
 import vs from '../../public/images/vs.png'
 import js from '../../public/images/js.png'
 
-const Home = () => {
+const Homes = () => {
   return (
     <div className='flex flex-col items-center h-screen w-full bg-[radial-gradient(circle,#FFFFFF,#FEBEDD)]'>
       <div className='flex flex-col justify-center items-center w-350 pt-[20vh]'>
@@ -34,4 +34,4 @@ const Home = () => {
   )
 }
 
-export default Home
+export default Homes
