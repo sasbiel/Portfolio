@@ -3,10 +3,10 @@ import Navbar from '../components/Navbar'
 import cacah from '../../public/images/cacah.png'
 import figmaLogo from '../../public/images/figma-logo.png'
 import rasio from '../../public/images/rasio.png'
-import Data from '../data/data'
+import data from '../data/data'
 
 const Project = () => { 
-  const [data, setData] = useState(Data)
+  const [data, setData] = useState(data)
   return (
     <div className='flex flex-col w-full h-full bg-[radial-gradient(circle,#FFFFFF,#FEBEDD)] items-center'>
       <div className='flex flex-col w-280 items-center pt-30'>

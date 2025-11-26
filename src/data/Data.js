@@ -21,7 +21,7 @@ import bunyi from '../../public/images/bunyi.png'
 import rasio from '../../public/images/rasio.png'
 import cacah from '../../public/images/cacah.png'
 
-const Data = [
+const data = [
     {
         Id: 1,
         Image:rasio, 
@@ -192,4 +192,4 @@ const Data = [
     },
 ]
 
-export default Data
+export default data
