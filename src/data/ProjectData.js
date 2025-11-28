@@ -25,120 +25,120 @@ const data = [
     {
         Id: 1,
         Image:rasio, 
-        FirstName: "Game SD kelas 6",
-        LastName: "Matematika",
+        FirstName: "Primary School Grade 6",
+        LastName: "Math Game",
         Category: "Design",
         Description: "Project PT. Solu Filantropi Teknologi"
     },
     {
         Id: 2,
         Image: cacah,
-        FirstName: "Game SD kelas 5",
-        LastName: "Matematika",
+        FirstName: "Primary School Grade 5",
+        LastName: "Math Game",
         Category: "Design",
         Description: "Project PT. Solu Filantropi Teknologi"
     },
     {
         Id: 3,
         Image: bunyi,
-        FirstName: "Game SD kelas 5",
-        LastName: "IPAS",
+        FirstName: "Primary School Grade 5",
+        LastName: "IPAS Game",
         Category: "Design",
         Description: "Project PT. Solu Filantropi Teknologi"
     },
     {
         Id: 4,
         Image: air,
-        FirstName: "Game SD kelas 5",
-        LastName: "IPAS",
+        FirstName: "Primary School Grade 5",
+        LastName: "IPAS Game",
         Category: "Design",
         Description: "Project PT. Solu Filantropi Teknologi"
     },
     {
         Id: 5,
         Image: membayar,
-        FirstName: "Game SD kelas 4",
-        LastName: "Bahasa Indonesia",
+        FirstName: "Primary School Grade 4",
+        LastName: "Bahasa Indonesia Game",
         Category: "Design",
         Description: "Project PT. Solu Filantropi Teknologi"
     },
     {
         Id: 6,
         Image: sudut,
-        FirstName: "Game SD kelas 5",
-        LastName: "Matematika",
+        FirstName: "Primary School Grade 5",
+        LastName: "Math Game",
         Category: "Design",
         Description: "Project PT. Solu Filantropi Teknologi"
     },
     {
         Id: 7,
         Image: khasDaerah,
-        FirstName: "Game SD kelas 4",
-        LastName: "IPAS",
+        FirstName: "Primary School Grade 4",
+        LastName: "IPAS Game",
         Category: "Design",
         Description: "Project PT. Solu Filantropi Teknologi"
     },
     {
         Id: 8,
         Image: sekitarRumah,
-        FirstName: "Game SD kelas 1",
-        LastName: "Bahasa Indonesia",
+        FirstName: "Primary School Grade 1",
+        LastName: "Bahasa Indonesia Game",
         Category: "Design",
         Description: "Project PT. Solu Filantropi Teknologi"
     },
     {
         Id: 9,
         Image: adaKuman,
-        FirstName: "Game SD kelas 1",
-        LastName: "Bahasa Indonesia",
+        FirstName: "Primary School Grade 1",
+        LastName: "Bahasa Indonesia Game",
         Category: "Design",
         Description: "Project PT. Solu Filantropi Teknologi"
     },
     {
         Id: 10,
         Image: bilangan100,
-        FirstName: "Game SD kelas 2",
-        LastName: "Matematika",
+        FirstName: "Primary School Grade 2",
+        LastName: "Math Game",
         Category: "Design",
         Description: "Project PT. Solu Filantropi Teknologi"
     },
     {
         Id: 11,
         Image: ragamBentuk,
-        FirstName: "Game SD kelas 3",
-        LastName: "Matematika",
+        FirstName: "Primary School Grade 3",
+        LastName: "Math Game",
         Category: "Design",
         Description: "Project PT. Solu Filantropi Teknologi"
     },
     {
         Id: 12,
         Image: kampungHalaman,
-        FirstName: "Game SD kelas 3",
-        LastName: "IPAS",
+        FirstName: "Primary School Grade 3",
+        LastName: "IPAS Game",
         Category: "Design",
         Description: "Project PT. Solu Filantropi Teknologi"
     },
     {
         Id: 13,
         Image: bijakUang,
-        FirstName: "Game SD kelas 2",
-        LastName: "Bahasa Indonesia",
+        FirstName: "Primary School Grade 2",
+        LastName: "Bahasa Indonesia Game",
         Category: "Design",
         Description: "Project PT. Solu Filantropi Teknologi"
     },
     {
         Id: 14,
         Image: pengukuranBerat,
-        FirstName: "Game SD kelas 3",
-        LastName: "Matematika",
+        FirstName: "Primary School Grade 3",
+        LastName: "Math Game",
         Category: "Design",
         Description: "Project PT. Solu Filantropi Teknologi"
     },
     {
         Id: 15,
         Image: siklusHidup,
-        FirstName: "Game SD kelas 3",
-        LastName: "IPAS",
+        FirstName: "Primary School Grade 3",
+        LastName: "IPAS Game",
         Category: "Design",
         Description: "Project PT. Solu Filantropi Teknologi"
     },
@@ -148,7 +148,7 @@ const data = [
         FirstName: "Nuansa Trips",
         LastName: "Mobile Design",
         Category: "UI & UX",
-        Description: "Juara 2 | Nasional | GENETIC Univ. Semarang"
+        Description: "2nd Winner | National | GENETIC Univ. Semarang"
     },
     {
         Id: 17,
@@ -156,7 +156,7 @@ const data = [
         FirstName: "SatyGuard",
         LastName: "Mobile Design",
         Category: "UI & UX",
-        Description: "Juara 3 | Nasional | FTTI UNJAYA"
+        Description: "3rd Winner | National | FTTI UNJAYA"
     },
     {
         Id: 18,
@@ -164,15 +164,15 @@ const data = [
         FirstName: "SatyGuard",
         LastName: "Website Design",
         Category: "UI Design",
-        Description: "Juara 2 | Nasional | Univ. Telkom Surabaya"
+        Description: "2nd Winner | National | Univ. Telkom Surabaya"
     },
     {
         Id: 19,
         Image: temanTanda,
         FirstName: "Teman Tanda",
-        LastName: "Mobile Design",
-        Category: "UI Design",
-        Description: "Peserta | Invention Udayana"
+        LastName: "Website Design",
+        Category: "UI",
+        Description: "Participant | Invention Udayana"
     },
     {
         Id: 20,
@@ -180,7 +180,7 @@ const data = [
         FirstName: "Greenly",
         LastName: "Website Design",
         Category: "UI Design",
-        Description: "Juara 1 | Provinsi | SMA 8 Jakarta"
+        Description: "1st Winner | Provinsi | SMA 8 Jakarta"
     },
     {
         Id: 21,
